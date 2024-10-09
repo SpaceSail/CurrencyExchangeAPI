@@ -17,11 +17,12 @@ value - amount, default to 1
 returns json 
 {"result":"amount"}
 
-### docs: 0.0.0.0:80/docs
+### docs: 
+0.0.0.0:80/docs
 
 ### Deployment
-'gh repo clone SpaceSail/CurrencyExchangeAPI'
-'docker build -t myimage . '
+`gh repo clone SpaceSail/CurrencyExchangeAPI`
+`docker build -t myimage . `
 ' docker run -d --name mycontainer -p 80:80 myimage'
 ### NB!
 Now running in production mode. Change 'CMD ["fastapi", "run", "app/main.py","--host", "0.0.0.0", "--port", "80"]'
