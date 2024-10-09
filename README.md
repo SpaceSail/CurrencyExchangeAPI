@@ -24,7 +24,7 @@ returns json
 
 Example:
 
-! [/CurrencyExchangeAPI/img/1.png](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/1.png)
+![/CurrencyExchangeAPI/img/1.png](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/1.png)
 
 ### Docs: 
 0.0.0.0:80/docs
