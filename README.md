@@ -24,6 +24,8 @@ returns json
 
 Example:
 
+![Required and default fields](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/3.png)
+
 ![Screenshot of 'GET' request](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/1.png)
 
 ![Result of 'GET' request](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/2.png)
