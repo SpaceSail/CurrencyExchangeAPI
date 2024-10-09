@@ -18,7 +18,7 @@ returns json
 {"result":"amount"}
 
 Example:
-! [] (https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/Снимок%20экрана%202024-10-09%20в%2011.29.16.png)
+! [] (CurrencyExchangeAPI/blob/main/img/Снимок%20экрана%202024-10-09%20в%2011.29.16.png)
 
 ### Docs: 
 0.0.0.0:80/docs
