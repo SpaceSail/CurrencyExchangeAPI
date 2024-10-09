@@ -22,8 +22,10 @@ returns json
 
 ### Deployment
 `gh repo clone SpaceSail/CurrencyExchangeAPI`
+
 `docker build -t myimage . `
-' docker run -d --name mycontainer -p 80:80 myimage'
+
+`docker run -d --name mycontainer -p 80:80 myimage`
 ### NB!
 Now running in production mode. Change 'CMD ["fastapi", "run", "app/main.py","--host", "0.0.0.0", "--port", "80"]'
 to 'CMD ["fastapi", "dev", "app/main.py","--host", "0.0.0.0", "--port", "80"]' 
