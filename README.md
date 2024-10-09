@@ -1,6 +1,6 @@
 # Currency exchange API
 
-### pssibilities:
+### Possibilities:
 Api allows to obtain actual currency rate on current date according to official Central Bank rates
 
 ### Testing
@@ -17,7 +17,7 @@ value - amount, default to 1
 returns json 
 {"result":"amount"}
 
-# docs: 0.0.0.0:80/docs
+### docs: 0.0.0.0:80/docs
 
 ### Deployment
 'gh repo clone SpaceSail/CurrencyExchangeAPI'
