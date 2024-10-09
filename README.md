@@ -31,6 +31,10 @@ Example:
 ![Result of 'GET' request](https://github.com/SpaceSail/CurrencyExchangeAPI/blob/main/img/2.png)
 
 
+### Curl
+
+`curl -X GET "http://127.0.0.1:80/api/rates?from=usd&to=rub&value=100"
+`
 ### Docs: 
 0.0.0.0:80/docs
 
