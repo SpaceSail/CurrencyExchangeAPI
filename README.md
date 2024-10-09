@@ -18,7 +18,7 @@ returns json
 {"result":"amount"}
 
 Example:
-! [] (CurrencyExchangeAPI/blob/main/img/Снимок%20экрана%202024-10-09%20в%2011.29.16.png)
+! [] (CurrencyExchangeAPI/img/1.png)
 
 ### Docs: 
 0.0.0.0:80/docs
