@@ -17,7 +17,7 @@ value - amount, default to 1
 returns json 
 {"result":"amount"}
 
-### docs: 
+### Docs: 
 0.0.0.0:80/docs
 
 ### Deployment
